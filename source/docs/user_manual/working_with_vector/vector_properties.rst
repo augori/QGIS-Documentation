@@ -23,7 +23,7 @@ double-click on a layer in the legend or right-click on the layer and select
 
 .. _figure_vector_properties_1:
 
-.. figure:: /static/user_manual/working_with_vector/vector_general_menu.png
+.. figure:: images/vector_general_menu.png
    :align: center
 
    Vector Layer Properties Dialog |nix|
@@ -83,7 +83,7 @@ several style in the database. Only one will be the default style anyway.
 
 .. _figure_vector_properties_2:
 
-.. figure:: /static/user_manual/working_with_vector/save_style_database.png
+.. figure:: images/save_style_database.png
    :align: center
 
    Save Style in database Dialog |nix|
@@ -129,7 +129,7 @@ feature). Here, the layers are joined together.
 
    **Figure Symbology 3:**
 
-.. figure:: /static/user_manual/working_with_vector/singlesymbol_ng_line.png
+.. figure:: images/singlesymbol_ng_line.png
    :align: center
 
    Single symbol line properties |nix|
@@ -148,7 +148,7 @@ to help you define size expression.
 
    **Figure Symbology 4:**
 
-.. figure:: /static/user_manual/working_with_vector/varying_size_assistant.png
+.. figure:: images/varying_size_assistant.png
    :align: center
 
    Varying size assistant |nix|
@@ -176,7 +176,7 @@ The available scale methods are 'Flannery', 'Surface' and 'Radius'.
 
    **Figure Symbology 5:**
 
-.. figure:: /static/user_manual/working_with_vector/expression_symbol_size_spinbox.png
+.. figure:: images/expression_symbol_size_spinbox.png
    :align: center
 
    Expression in Size spinbox |nix|
@@ -203,7 +203,7 @@ field 'budged'. Here a comment functionality is inserted.
 
    **Figure Symbology 6:**
 
-.. figure:: /static/user_manual/working_with_vector/symbol_data_defined_edit.png
+.. figure:: images/symbol_data_defined_edit.png
    :align: center
 
    Data-defined symbol with Edit... menu
@@ -242,7 +242,7 @@ for the rivers layer of the QGIS sample dataset.
 
    **Figure Symbology 7:**
 
-.. figure:: /static/user_manual/working_with_vector/categorysymbol_ng_line.png
+.. figure:: images/categorysymbol_ng_line.png
    :align: center
 
    Categorized Symbolizing options |nix|
@@ -262,7 +262,7 @@ selected feature's attribute to a class.
 
    **Figure Symbology 8:**
 
-.. figure:: /static/user_manual/working_with_vector/graduatesymbol_ng_line.png
+.. figure:: images/graduatesymbol_ng_line.png
    :align: center
 
    Graduated Symbolizing options |nix|
@@ -352,7 +352,7 @@ is the background for the symbol in the tree.
 
    **Figure Symbology 9:**
 
-.. figure:: /static/user_manual/working_with_vector/rulesymbol_ng_line.png
+.. figure:: images/rulesymbol_ng_line.png
    :align: center
 
    Rule-based Symbolizing options |nix|
@@ -372,7 +372,7 @@ placed on a displacement circle around a center symbol.
 
    **Figure Symbology 10:**
 
-.. figure:: /static/user_manual/working_with_vector/poi_displacement.png
+.. figure:: images/poi_displacement.png
    :align: center
 
    Point displacement dialog |nix|
@@ -400,7 +400,7 @@ same as for the main renderers.
 
    **Figure Symbology 11:**
 
-.. figure:: /static/user_manual/working_with_vector/inverted_polygon_symbol.png
+.. figure:: images/inverted_polygon_symbol.png
    :align: center
 
    Inverted Polygon dialog |nix|
@@ -440,7 +440,7 @@ selecting and on the lower right part you have the option to add the color you j
 
    **Figure color picker 1:**
 
-.. figure:: /static/user_manual/working_with_vector/color_picker_ramp.png
+.. figure:: images/color_picker_ramp.png
    :align: center
 
    Color picker ramp tab |nix|
@@ -457,7 +457,7 @@ populated with one of three methods: `Recent colors`, `Standard colors` or `Proj
 
    **Figure color picker 2:**
 
-.. figure:: /static/user_manual/working_with_vector/color_picker_recent_colors.png
+.. figure:: images/color_picker_recent_colors.png
    :align: center
 
    Color picker switcher tab |nix|
@@ -478,7 +478,7 @@ QGIS or even from another application by pressing the space bar. Please note tha
 
    **Figure color picker 3:**
 
-.. figure:: /static/user_manual/working_with_vector/quick_color_picker.png
+.. figure:: images/quick_color_picker.png
    :align: center
 
    Quick color picker menu |nix|
@@ -634,7 +634,7 @@ whether the number of features to be labelled is limited and to |checkbox| `Disc
 
    **Figure Labels 1:**
 
-.. figure:: /static/user_manual/working_with_vector/label_points.png
+.. figure:: images/label_points.png
    :align: center
 
    Smart labeling of vector point layers |nix|
@@ -686,7 +686,7 @@ The `Rendering` menu has nearly the same entries as for point layers. In the
 
    **Figure Labels 2:**
 
-.. figure:: /static/user_manual/working_with_vector/label_line.png
+.. figure:: images/label_line.png
    :align: center
 
    Smart labeling of vector line layers |nix|
@@ -745,7 +745,7 @@ The entries in the `Rendering` menu are the same as for line layers. You can als
 
    **Figure Labels 3:**
 
-.. figure:: /static/user_manual/working_with_vector/label_area.png
+.. figure:: images/label_area.png
    :align: center
 
    Smart labelling of vector polygon layers |nix|
@@ -771,7 +771,7 @@ some descriptive text and the function '$area()' in combination with
 
    **Figure Labels 4:**
 
-.. figure:: /static/user_manual/working_with_vector/label_expression.png
+.. figure:: images/label_expression.png
    :align: center
    :width: 30em
 
@@ -844,7 +844,7 @@ We now describe an example using the data-defined override function for the
 
    **Figure Labels 5:**
 
-.. figure:: /static/user_manual/working_with_vector/label_data_defined.png
+.. figure:: images/label_data_defined.png
    :align: center
 
    Labelling of vector polygon layers with data-defined override |nix|
@@ -856,7 +856,7 @@ We now describe an example using the data-defined override function for the
 
    **Figure Labels 6:**
 
-.. figure:: /static/user_manual/working_with_vector/move_label.png
+.. figure:: images/move_label.png
    :align: center
 
    Move labels |nix|
@@ -874,7 +874,7 @@ Rules can be set selecting the corresponding option at the top of the Labels pan
 
    **Figure Labels 7:**
 
-.. figure:: /static/user_manual/working_with_vector/label_rules_panel.png
+.. figure:: images/label_rules_panel.png
    :align: center
    
    Rule based labeling panel |nix|
@@ -888,7 +888,7 @@ Within the panel you can set the filter expression and the related label configu
 
    **Figure Labels 8:**
 
-.. figure:: /static/user_manual/working_with_vector/label_rule_settings.png
+.. figure:: images/label_rule_settings.png
    :align: center
    
    Rule settings |nix|
@@ -917,7 +917,7 @@ can be used when the dataset is in |mActionToggleEditing| :sup:`Editing mode`.
 
    **Figure Fields 1:**
 
-.. figure:: /static/user_manual/working_with_vector/editwidgetsdialog.png
+.. figure:: images/editwidgetsdialog.png
    :align: center
 
    Dialog to select an edit widget for an attribute column |nix|
@@ -1017,7 +1017,7 @@ Reference in Python Init Function like so: `open`
 
    **Figure Fields 2:**
 
-.. figure:: /static/user_manual/working_with_vector/attribute_editor_layout.png
+.. figure:: images/attribute_editor_layout.png
    :align: center
 
    Dialog to create categories with the **Attribute editor layout**
@@ -1028,7 +1028,7 @@ Reference in Python Init Function like so: `open`
 
    **Figure Fields 3:**
 
-.. figure:: /static/user_manual/working_with_vector/resulting_feature_form.png
+.. figure:: images/resulting_feature_form.png
    :align: center
 
    Resulting built-in form with tabs and named groups
@@ -1073,7 +1073,7 @@ Feature subset
 
    **Figure General 1:**
 
-.. figure:: /static/user_manual/working_with_vector/vector_general_menu.png
+.. figure:: images/vector_general_menu.png
    :align: center
 
    General menu in vector layers properties dialog |nix|
@@ -1102,7 +1102,7 @@ display when hovering over a feature. To activate Map Tips, select the menu opti
 
    **Figure Display 1:**
 
-.. figure:: /static/user_manual/working_with_vector/display_html.png
+.. figure:: images/display_html.png
    :align: center
 
    HTML code for map tip |nix|
@@ -1114,7 +1114,7 @@ display when hovering over a feature. To activate Map Tips, select the menu opti
 
    **Figure Display 2:**
 
-.. figure:: /static/user_manual/working_with_vector/map_tip.png
+.. figure:: images/map_tip.png
    :align: center
 
    Map tip made with HTML code |nix|
@@ -1134,7 +1134,7 @@ passing parameters to a web reporting tool.
 
    **Figure Actions 1:**
 
-.. figure:: /static/user_manual/working_with_vector/action_dialog.png
+.. figure:: images/action_dialog.png
    :align: center
 
    Overview action dialog with some sample actions |nix|
@@ -1298,7 +1298,7 @@ identify a lake. In the result box you'll now see that our action is visible:
 
    **Figure Actions 2:**
 
-.. figure:: /static/user_manual/working_with_vector/action_identifyaction.png
+.. figure:: images/action_identifyaction.png
    :align: center
 
    Select feature and choose action |nix|
@@ -1406,7 +1406,7 @@ QGIS currently has support for joining non-spatial table formats supported by OG
 
    **Figure Joins 1:**
 
-.. figure:: /static/user_manual/working_with_vector/join_attributes.png
+.. figure:: images/join_attributes.png
    :align: center
 
    Join an attribute table to an existing vector layer |nix|
@@ -1442,7 +1442,7 @@ chart positions can be fixed manually.
 
    **Figure Diagrams 1:**
 
-.. figure:: /static/user_manual/working_with_vector/diagram_tab.png
+.. figure:: images/diagram_tab.png
    :align: center
 
    Vector properties dialog with diagram menu |nix|
@@ -1480,7 +1480,7 @@ Both vector layers are part of the QGIS sample dataset (see section
 
    **Figure Diagrams 2:**
 
-.. figure:: /static/user_manual/working_with_vector/climate_diagram.png
+.. figure:: images/climate_diagram.png
    :align: center
    :width: 25em
 
@@ -1522,7 +1522,7 @@ and will be used for QGIS server.
 
    **Figure Metadata 1:**
 
-.. figure:: /static/user_manual/working_with_vector/vector_metadata_tab.png
+.. figure:: images/vector_metadata_tab.png
    :align: center
 
    Metadata menu in vector layers properties dialog |nix|
