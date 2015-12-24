@@ -1528,3 +1528,7 @@ and will be used for QGIS server.
    :align: center
 
    Metadata menu in vector layers properties dialog |nix|
+
+
+.. |nix| image:: images/nix.png
+   :width: 1em
