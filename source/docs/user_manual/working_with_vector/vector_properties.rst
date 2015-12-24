@@ -1530,5 +1530,5 @@ and will be used for QGIS server.
 
    Metadata menu in vector layers properties dialog |nix|
 
-.. |nix| image:: images/nix.png
+.. |nix| image:: images/nixs.png
    :width: 1.0em
