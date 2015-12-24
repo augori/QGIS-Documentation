@@ -206,7 +206,7 @@ rst_prolog = """
 
 # Substitutions icons below are sorted
 rst_epilog = """
-.. |nix| image:: /static/common/nix.png
+.. |nix| image:: images/common/nix.png
    :width: 1em
 .. |win| image:: /static/common/win.png
    :width: 1em
