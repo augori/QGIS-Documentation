@@ -1532,3 +1532,9 @@ and will be used for QGIS server.
 
 .. |nix| image:: images/nixs.png
    :width: 1.0em
+.. |checkbox| image:: images/checkbox.png
+   :width: 1.3em
+.. |checkbox_checked| image:: images/checkbox.png
+   :width: 1.3em
+.. |checkbox_unchecked| image:: images/checkbox_unchecked.png
+   :width: 1.3em
