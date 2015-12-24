@@ -155,11 +155,14 @@ to help you define size expression.
 
 The assistant let you define:
 
-* The attribute (using the Field listbox or the |mActionmIconExpressionEditorOpen| 
+* The attribute (using the Field listbox or the |mActionmIconExpressionEditorOpentest|
   `Set column expression` function, see :ref:`vector_expressions`)
 * The minimum and maximum size of the symbol
 * The minimum and maximum values of the Field. The down pointing arrow allows to 
   set the minimum and maximum values according to your data.
+
+.. |mActionmIconExpressionEditorOpentest| image:: images/mIconExpressionEditorOpen.png
+   :width: 1.5 em
 
 The values presented in the varying size assistant above will set the size
 'Data-defined override' with:
