@@ -162,7 +162,7 @@ The assistant let you define:
   set the minimum and maximum values according to your data.
 
 .. |mActionmIconExpressionEditorOpentest| image:: images/mIconExpressionEditorOpen.png
-   :width: 1.5 em
+   :width: 5.5 em
 
 The values presented in the varying size assistant above will set the size
 'Data-defined override' with:
@@ -1531,4 +1531,4 @@ and will be used for QGIS server.
    Metadata menu in vector layers properties dialog |nix|
 
 .. |nix| image:: images/nix.png
-    :width: 1 em
+   :width: 1 em
