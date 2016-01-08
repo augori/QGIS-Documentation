@@ -9,13 +9,13 @@ While it does not list all possible use cases, it should give a good overview
 of the principal functionality.
 
 Starting from 0.9 release, QGIS has optional scripting support using Python
-language. We've decided for Python as it's one of the most favourite
+language. We've decided on Python as it's one of the most favourite
 languages for scripting. PyQGIS bindings depend on SIP and PyQt4. The reason
-for using SIP instead of more widely used SWIG is that the whole QGIS code
-depends on Qt libraries. Python bindings for Qt (PyQt) are done also using
-SIP and this allows seamless integration of PyQGIS with PyQt.
+for using SIP instead of more widely used SWIG is that the entire QGIS code base
+depends on Qt libraries. Python bindings for Qt (PyQt) are also done using
+SIP and this enables seamless integration of PyQGIS with PyQt.
 
-There are several ways how to use Python bindings in |qg| desktop, they are covered
+There are several ways to use Python bindings in |qg| desktop, they are covered
 in detail in the following sections:
 
 * automatically run Python code when QGIS starts
@@ -101,8 +101,8 @@ show the feature count. For interaction with QGIS environment, there is a
 This interface allows access to the map canvas, menus, toolbars and other
 parts of the QGIS application.
 
-For convenience of the user, the following statements are executed when
-the console is started (in future it will be possible to set further initial
+For the convenience of the user, the following statements are executed when
+the console is started (in the future, it will be possible to set further initial
 commands)
 
 ::
@@ -110,7 +110,7 @@ commands)
   from qgis.core import *
   import qgis.utils
 
-For those which use the console often, it may be useful to set a shortcut
+For frequent console users, it may be useful to set a shortcut
 for triggering the console (within menu :menuselection:`Settings --> Configure
 shortcuts...`)
 
